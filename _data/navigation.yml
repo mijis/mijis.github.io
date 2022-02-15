@@ -2,11 +2,10 @@
 main:
   - title: "Home"
     url: "/"
-  # - title: "about me"
-  #   url: /myself/
-  # - title: "Categories"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  # - title: "about"
+  #   url: /about/
+  # - title: "category"
+  #   url: /category/
+  # - title: "tag"
+  #   url: /tag/
+  
