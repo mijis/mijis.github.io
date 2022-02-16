@@ -1,10 +1,8 @@
-# category-java.md
 ---
-title: "java"
-layout: archive
-permalink: /categories/java/
+title: "Categories"
+layout: categories
+permalink: /categories/
 author_profile: true
+sidebar_main: true
 ---
 
-{% assign posts = site.categories.java %}
-{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

@@ -1,7 +1,7 @@
-# tag-archive.md
 ---
-title: "Posts by Tag"
-permalink: /tags/
+title: "Tags"
 layout: tags
+permalink: /tags/
 author_profile: true
+sidebar_main: true
 ---
