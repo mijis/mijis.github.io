@@ -1,6 +1,6 @@
 ---
 layout : single
-title: "Letters"
+title: "ASCII"
 categories: CS50
 tag: [CS50, blog, ComputerScience]
 toc: true
