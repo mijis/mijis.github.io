@@ -1,8 +1,8 @@
 ---
 layout : single
 title: "Linked List"
-categories: algorithm
-tag:  [blog, algorithm]
+categories: Algorithm
+tag:  [blog, algorithm, ComputerScience]
 toc: true
 ---
 
