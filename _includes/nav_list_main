@@ -16,28 +16,28 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "java" %}
-                        <li><a href="/docs/knowledge_pieces/java" class="">Java ({{category[1].size}})</a></li>
+                        <li><a href="/categoriess/knowledge_pieces/java" class="">Java ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "db" %}
-                        <li><a href="/docs/knowledge_pieces/db" class="">DB ({{category[1].size}})</a></li>
+                        <li><a href="/categoriess/knowledge_pieces/db" class="">DB ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "JavaScript" %}
-                        <li><a href="/docs/knowledge_pieces/javascript" class="">JavaScript ({{category[1].size}})</a></li>
+                        <li><a href="/categoriess/knowledge_pieces/javascript" class="">JavaScript ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "algorithms" %}
-                        <li><a href="/docs/knowledge_pieces/algorithms" class="">Algorithms ({{category[1].size}})</a></li>
+                        <li><a href="/categoriess/knowledge_pieces/algorithms" class="">Algorithms ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>  
@@ -45,14 +45,14 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "leet" %}
-                        <li><a href="/docs/leet" class="">LeetCode({{category[1].size}})</a></li>
+                        <li><a href="/categoriess/leet" class="">LeetCode({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>  
              <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "engineerKorea" %}
-                        <li><a href="/docs/engineerkorea" class="">EngineerKorea({{category[1].size}})</a></li>
+                        <li><a href="/categoriess/engineerkorea" class="">EngineerKorea({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>  
@@ -68,7 +68,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "diary" %}
-                        <li><a href="/docs/diary" class="">Diary({{category[1].size}})</a></li>
+                        <li><a href="/categoriess/diary" class="">Diary({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>  
@@ -76,7 +76,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "improvments" %}
-                        <li><a href="/docs/improvments" class="">Improvments({{category[1].size}})</a></li>
+                        <li><a href="/categoriess/improvments" class="">Improvments({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>  
@@ -84,7 +84,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "error" %}
-                        <li><a href="/docs/error" class="">Error({{category[1].size}})</a></li>
+                        <li><a href="/categoriess/error" class="">Error({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>  
