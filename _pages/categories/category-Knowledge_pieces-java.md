@@ -1,7 +1,7 @@
 ---
 title: "Knowledge_pieces"
 layout: archive
-permalink: /categories/knowledge_pieces/
+permalink: categories/knowledge_pieces/java
 author_profile: true
 sidebar_main: true
 ---
