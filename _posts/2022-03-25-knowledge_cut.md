@@ -1,7 +1,7 @@
 ---
 layout : single
 title: "Knowledge Pieces_algorithm"
-categories: Knowledge_Pieces
+categories: algorithms
 tag:  [blog]
 toc: true
 ---

@@ -13,41 +13,43 @@
 docs:
   - title: "CS50"
       url: /docs/CS50/
-      category: "CS50"
+      category: CS50
       
   - title: "Algorithms"
     children:
       - title: "Leet"
         url: /docs/leet/
-        category: "leet"
-      - title: "EngineerKorea"
+        categories: "leet"
+      - title: EngineerKorea
         url: /docs/engineerkorea/
-        category: "engineerkorea"
+        categories: engineerkorea
        
   - title: "Diary"
       url: /docs/diary/
-      category: "diary"
+      categories: diary
 
   - title: "Error"
       url: /docs/error/
-      category: "error"
+      categories: error
 
   - title: "Knowledge_pieces"
     children:
     - title: "java"
         url: /docs/knowledge_pieces/java/
-         category: "java"
+        categories: java
     - title: "DB"
         url:  /docs/knowledge_pieces/db/
-         category: "db"
+        categories: db
     - title: "JavaScript"
         url: /docs/knowledge_pieces/javascript/
-         category: "javascript"
+        categories: javascript
       - title: "algorithms"
         url: /docs/knowledge_pieces/algorithms/ 
-         category: "algorithms"
+        categories: algorithms
 
-
+  - title: "today's improvments"
+      url: /docs/today's improvments/
+      categories: today's improvments
    
       
       

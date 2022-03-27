@@ -283,7 +283,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: ture # 0327 수정
+      author_profile: true # 0327 수정
       read_time: true
       comments: true # true
       share: true
