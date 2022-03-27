@@ -1,7 +1,7 @@
 ---
 title: "Knowledge_pieces"
 layout: archive
-permalink: /categories/knowledge_pieces/javascript/
+permalink: /categories/knowledgePieces/javascript/
 author_profile: true
 sidebar_main: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Knowledge_pieces"
 layout: archive
-permalink: /categories/knowledge_pieces/algorithms/
+permalink: /categories/knowledgePieces/algorithms/
 author_profile: true
 sidebar_main: true
 ---
