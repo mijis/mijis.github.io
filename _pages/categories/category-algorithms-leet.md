@@ -1,7 +1,7 @@
 ---
 title: "Algorithms"
 layout: archive
-permalink: /categories/algorithms/leet
+permalink: /categories/algorithms/leet/
 author_profile: true
 sidebar_main: true
 ---

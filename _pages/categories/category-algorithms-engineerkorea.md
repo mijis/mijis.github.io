@@ -1,7 +1,7 @@
 ---
 title: "Algorithms"
 layout: archive
-permalink: /categories/algorithms/engineerkorea
+permalink: /categories/algorithms/engineerkorea/
 author_profile: true
 sidebar_main: true
 ---

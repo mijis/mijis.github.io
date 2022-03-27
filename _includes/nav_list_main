@@ -16,28 +16,28 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "java" %}
-                        <li><a href="/categories/knowledge_pieces/java" class="">Java ({{category[1].size}})</a></li>
+                        <li><a href="/categories/knowledgePieces/java" class="">Java ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "db" %}
-                        <li><a href="/categories/knowledge_pieces/db" class="">DB ({{category[1].size}})</a></li>
+                        <li><a href="/categories/knowledgePieces/db" class="">DB ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "javaScript" %}
-                        <li><a href="/categories/knowledge_pieces/javascript" class="">JavaScript ({{category[1].size}})</a></li>
+                        <li><a href="/categories/knowledgePieces/javascript" class="">JavaScript ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "algorithms" %}
-                        <li><a href="/categories/knowledge_pieces/algorithms" class="">Algorithms ({{category[1].size}})</a></li>
+                        <li><a href="/categories/knowledgePieces/algorithms" class="">Algorithms ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>  
