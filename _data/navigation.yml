@@ -52,13 +52,13 @@ docs:
 
   - title: "Knowledge_pieces"
     children:
-    - title: "java"
+      - title: "java"
         url: /docs/knowledge_pieces/java/
         categories: java
-    - title: "DB"
+      - title: "DB"
         url:  /docs/knowledge_pieces/db/
         categories: db
-    - title: "JavaScript"
+      - title: "JavaScript"
         url: /docs/knowledge_pieces/javascript/
         categories: javascript
       - title: "algorithms"
