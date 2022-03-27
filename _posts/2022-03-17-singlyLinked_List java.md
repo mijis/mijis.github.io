@@ -21,7 +21,7 @@ toc: true
 </div>
 
 
-<br/><br/><br/><br/>
+<br/><br/>
 
 
 ## **Java에서 구현**
@@ -88,5 +88,4 @@ public class Node {
 
 
 ### ※ 강의 듣는 곳
-><a href=https://www.youtube.com/watch?v=C1SDkdPvQPA></a><br>
-엔지니어 대한민국 [자료구조 알고리즘] 단방향 Linked List 구현 in Java를 듣고 정리한 것입니다<br>
+><a href="https://www.youtube.com/watch?v=C1SDkdPvQPA">엔지니어 대한민국 [자료구조 알고리즘] 단방향 Linked List 구현 in Java</a>를 듣고 정리한 것입니다

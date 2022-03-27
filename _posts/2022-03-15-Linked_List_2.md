@@ -23,5 +23,4 @@ toc: true
 <br>
 <br>
 ### ※ 강의 듣는 곳
-><a href= https://www.youtube.com/watch?v=DzGnME1jIwY></a> <br>
-엔지니어 대한민국 [자료구조 알고리즘] Linked List를 듣고 정리한 것입니다.<br>
+><a href= https://www.youtube.com/watch?v=DzGnME1jIwY>엔지니어 대한민국 [자료구조 알고리즘] Linked List</a>를 듣고 정리한 것입니다.<br>
