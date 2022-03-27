@@ -1,19 +1,33 @@
 # main links
-  main:
-   - title: "Category"
-     url: /categories/
-   - title: "About"
-     url: /about/
-   - title: "Categories"
-     url: /categories/
-  - title: "Tags"
-      url: /tags/
+  # main:
+  #  - title: "Category"
+  #    url: /categories/
+  #  - title: "About"
+  #    url: /about/
+  #  - title: "Categories"
+  #    url: /categories/
+  # - title: "Tags"
+  #     url: /tags/
   
 
 docs:
+  - title: Getting Started
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+      - title: "Structure"
+        url: /docs/structure/
+      - title: "Installation"
+        url: /docs/installation/
+      - title: "Upgrading"
+        url: /docs/upgrading/
+
+docs:
   - title: "CS50"
-      url: /docs/CS50/
-      category: CS50
+    children:
+      - title: "CS50"
+        url: /docs/CS50/
+        category: CS50
       
   - title: "Algorithms"
     children:
@@ -25,12 +39,16 @@ docs:
         categories: engineerkorea
        
   - title: "Diary"
-      url: /docs/diary/
-      categories: diary
+    children:
+      - title: "Diary"
+        url: /docs/diary/
+        categories: diary
 
   - title: "Error"
-      url: /docs/error/
-      categories: error
+    children:
+      - title: "Error"
+        url: /docs/error/
+        categories: error
 
   - title: "Knowledge_pieces"
     children:
@@ -48,8 +66,10 @@ docs:
         categories: algorithms
 
   - title: "today's improvments"
-      url: /docs/today's improvments/
-      categories: today's improvments
+    children:
+      - title:
+        url: /docs/today's improvments/
+        categories: today's improvments
    
       
       
