@@ -16,21 +16,21 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "java" %}
-                        <li><a href="/categories/knowledgePieces/java" class="">Java ({{category[1].size}})</a></li>
+                        <li><a href="/categories/java" class="">Java ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "db" %}
-                        <li><a href="/categories/knowledgePieces/db" class="">DB ({{category[1].size}})</a></li>
+                        <li><a href="/categories/db" class="">DB ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "javaScript" %}
-                        <li><a href="/categories/knowledgePieces/javascript" class="">JavaScript ({{category[1].size}})</a></li>
+                        <li><a href="/categories/javascript" class="">JavaScript ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul> 
@@ -38,21 +38,21 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "leet" %}
-                        <li><a href="/categories/algorithms/leet" class="">LeetCode({{category[1].size}})</a></li>
+                        <li><a href="/categories/leet" class="">LeetCode({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>  
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "engineerKorea" %}
-                        <li><a href="/categories/algorithms/engineerkorea" class="">EngineerKorea({{category[1].size}})</a></li>
+                        <li><a href="/categories/engineerkorea" class="">EngineerKorea({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>  
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "more" %}
-                        <li><a href="/categories/algorithms/more" class="">More({{category[1].size}})</a></li>
+                        <li><a href="/categories/more" class="">More({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>  

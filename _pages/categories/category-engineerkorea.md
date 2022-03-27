@@ -1,11 +1,11 @@
 ---
 title: "Engineerkorea"
 layout: archive
-permalink: /categories/algorithms/engineerkorea/
+permalink: /categories/engineerkorea/
 author_profile: true
 sidebar_main: true
 ---
 
 
-{% assign posts = site.categories.algorithms.engineerkorea %}
+{% assign posts = site.categories.engineerkorea %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

@@ -1,12 +1,12 @@
 ---
-title: "DB"
+title: "JavaScript"
 layout: archive
-permalink: /categories/knowledgePieces/db/
+permalink: /categories/knowledgePieces/javascript/
 author_profile: true
 sidebar_main: true
 ---
 
 
-{% assign posts = site.categories.knowledgePieces.db %}
+{% assign posts = site.categories.javascript %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
 
