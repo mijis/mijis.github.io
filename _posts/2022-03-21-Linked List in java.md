@@ -13,6 +13,7 @@ toc: true
  
 <br><br>
 ## **Java에서 구현**
+
  ```java
 public class LinkedList {
 	Node header;
@@ -78,5 +79,5 @@ public class LinkedList {
 포인터의 위치를 header가 이동하면 첫 번째 값도 지울 수 있게 된다. 저번 강의에서 배웠을 땐 첫 번째 값이 링크드 리스트이자 노드 그 자체여서 지울 수 없었는데 헤더를 사용하면 첫 번째 값도 지울 수 있게 된다. 정확한 비유인지는 모르겠지만, DB의 커서와 유사하다고 생각한다. 
 
  ### ※ 강의 듣는 곳
->https://www.youtube.com/watch?v=IrXYr7T8u_s<br>
+><a href = https://www.youtube.com/watch?v=IrXYr7T8u_s></a><br>
 엔지니어 대한민국 [자료구조 알고리즘] LinkedListNode의 구현 in Java를 듣고 정리한 것입니다<br>

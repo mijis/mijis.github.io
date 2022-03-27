@@ -88,5 +88,5 @@ public class Node {
 
 
 ### ※ 강의 듣는 곳
->https://www.youtube.com/watch?v=C1SDkdPvQPA<br>
+><a href=https://www.youtube.com/watch?v=C1SDkdPvQPA></a><br>
 엔지니어 대한민국 [자료구조 알고리즘] 단방향 Linked List 구현 in Java를 듣고 정리한 것입니다<br>
