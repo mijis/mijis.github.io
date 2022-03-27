@@ -1,7 +1,7 @@
 ---
 title: "Leetcode"
 layout: archive
-permalink: /categories/algorithms/leet/
+permalink: /categories/leet/
 author_profile: true
 sidebar_main: true
 ---
