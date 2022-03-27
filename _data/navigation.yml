@@ -19,7 +19,7 @@ docs:
       
   - title: "Algorithms"
     children:
-      - title: "Leet"
+      - title: "leet"
         url: /docs/leet/
         categories: "leet"
       - title: EngineerKorea
@@ -53,11 +53,11 @@ docs:
         url: /docs/knowledge_pieces/algorithms/ 
         categories: algorithms
 
-  - title: "today's improvments"
+  - title: "improvments"
     children:
       - title:
-        url: /docs/today's improvments/
-        categories: today's improvments
+        url: /docs/improvments/
+        categories: improvments
    
       
       
