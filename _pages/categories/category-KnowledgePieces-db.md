@@ -1,5 +1,5 @@
 ---
-title: "Knowledge_pieces"
+title: "DB"
 layout: archive
 permalink: /categories/knowledgePieces/db/
 author_profile: true

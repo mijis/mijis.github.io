@@ -33,14 +33,7 @@
                         <li><a href="/categories/knowledgePieces/javascript" class="">JavaScript ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
-            </ul>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "algorithms" %}
-                        <li><a href="/categories/knowledgePieces/algorithms" class="">Algorithms ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>  
+            </ul> 
         <span class="nav__sub-title">Algorithms</span>
             <ul>
                 {% for category in site.categories %}
@@ -49,10 +42,17 @@
                     {% endif %}
                 {% endfor %}
             </ul>  
-             <ul>
+            <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "engineerKorea" %}
                         <li><a href="/categories/algorithms/engineerkorea" class="">EngineerKorea({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>  
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "more" %}
+                        <li><a href="/categories/algorithms/more" class="">More({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>  

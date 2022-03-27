@@ -1,5 +1,5 @@
 ---
-title: "Knowledge_pieces"
+title: "JavaScript"
 layout: archive
 permalink: /categories/knowledgePieces/javascript/
 author_profile: true

@@ -1,5 +1,5 @@
 ---
-title: "Knowledge_pieces"
+title: "Java"
 layout: archive
 permalink: categories/knowledgePieces/java/
 author_profile: true
