@@ -6,9 +6,6 @@ tag:  [blog, algorithm, ComputerScience]
 toc: true
 ---
 
-# Two Sum 
-
-
 ## **문제**   
 [Leetcode Two Sum] (https://leetcode.com/problems/two-sum/)
 <p>
