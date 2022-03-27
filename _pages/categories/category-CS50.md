@@ -1,7 +1,7 @@
 ---
 title: "CS50"
 layout: archive
-permalink: categories/CS50
+permalink: /categories/CS50/
 author_profile: true
 sidebar_main: true
 ---

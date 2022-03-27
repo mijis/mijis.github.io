@@ -1,11 +1,11 @@
 ---
 title: "improvments"
 layout: archive
-permalink: categories/improvments
+permalink: /categories/improvments/
 author_profile: true
 sidebar_main: true
 ---
 
 
-{% assign posts = site.categories.today's improvments %}
+{% assign posts = site.categories.improvments %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
