@@ -1,5 +1,5 @@
 ---
-title: "diary"
+title: "Diary"
 layout: archive
 permalink: categories/diary
 author_profile: true

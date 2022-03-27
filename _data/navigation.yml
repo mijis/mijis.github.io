@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Category"
-    url: /categories/
+    url: /category/
 #   - title: "About"
 #     url: /about/
 #   #  - title: "Categories"
@@ -21,43 +21,43 @@ docs:
     children:
       - title: "leet"
         url: /docs/leet/
-        categories: "leet"
+        category: "leet"
       - title: EngineerKorea
         url: /docs/engineerkorea/
-        categories: engineerkorea
+        category: engineerkorea
        
   - title: "Diary"
     children:
       - title: "Diary"
         url: /docs/diary/
-        categories: diary
+        category: diary
 
   - title: "Error"
     children:
       - title: "Error"
         url: /docs/error/
-        categories: error
+        category: error
 
   - title: "Knowledge_pieces"
     children:
       - title: "java"
         url: /docs/knowledge_pieces/java/
-        categories: java
+        category: java
       - title: "DB"
         url:  /docs/knowledge_pieces/db/
-        categories: db
+        category: db
       - title: "JavaScript"
         url: /docs/knowledge_pieces/javascript/
-        categories: javascript
+        category: javascript
       - title: "algorithms"
         url: /docs/knowledge_pieces/algorithms/ 
-        categories: algorithms
+        category: algorithms
 
   - title: "improvments"
     children:
       - title:
         url: /docs/improvments/
-        categories: improvments
+        category: improvments
    
       
       
