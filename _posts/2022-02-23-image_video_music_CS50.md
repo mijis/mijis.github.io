@@ -6,7 +6,6 @@ tag: [CS50, blog, ComputerScience]
 toc: true
 ---
 
-# Image, Video, Music review
 
 > ## **수업내용**
 >>### 1. Image <br>   

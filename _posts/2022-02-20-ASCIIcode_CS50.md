@@ -6,7 +6,6 @@ tag: [CS50, blog, ComputerScience]
 toc: true
 ---
 
-# ASCII review
 <br>
 
 > ## **수업내용**

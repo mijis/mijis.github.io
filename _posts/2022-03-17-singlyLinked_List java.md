@@ -1,12 +1,10 @@
 ---
 layout : single
-title: "Linked List"
+title: "Linked List 구현 in java"
 categories: engineerkorea
 tag:  [blog, algorithm, ComputerScience]
 toc: true
 ---
-
-# 단방향 Linked List 구현 in java
 
 ## **노드란?**
 <div>

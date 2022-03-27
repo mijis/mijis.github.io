@@ -1,11 +1,10 @@
 ---
 layout : single
-title: "Linked List"
+title: "단방향, 양방향 Linked List"
 categories: engineerkorea
 tag:  [blog, algorithm, ComputerScience]
 toc: true
 ---
-# 단방향, 양방향 Linked List
 
 1. 단방향 Linked List
 ![단방향 linked_list](https://user-images.githubusercontent.com/93427305/158332202-312d9074-1f9c-42be-8154-5ca5568fb8a2.jpg)

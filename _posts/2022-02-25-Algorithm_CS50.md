@@ -5,7 +5,7 @@ categories: CS50
 tag: [CS50, blog, ComputerScience]
 toc: true
 ---
-# Algorithm
+
 
 > ## **수업내용**
 ## **input → □ → output**

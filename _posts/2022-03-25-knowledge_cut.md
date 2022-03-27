@@ -1,12 +1,10 @@
 ---
 layout : single
-title: "Knowledge Pieces_algorithm"
-categories: algorithms
+title: "More_algorithm"
+categories: more
 tag:  [blog]
 toc: true
 ---
-
-# Knowledge Pieces_algorithm
 
 1. **버퍼(buffer)** : 데이터를 한 곳에서 다른 한 곳으로 전송하는 동안 일시적으로 그 데이터를 보관하는 메모리의 영역<br/>
 **버퍼링(buffering) 또는 큐(Queue)** : 버퍼를 활용하는 방식 또는 버퍼를 채우는 동작<br/>

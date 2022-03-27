@@ -6,8 +6,6 @@ tag: [CS50, blog, ComputerScience]
 toc: true
 ---
 
-# Pseudocode
-
 > ## **수업내용**
 Psedocode는 어떤 언어도, 코딩을 시작할 수 있는 것은 아니지만, 알고리즘 방식으로 표현할 수 있게 만들어주는 것이다. 
 <blockquot cite = "https://video.cs50.io/4zy0z5W0-w4?screen=BM5yvg_UJ-g&start=4203">

@@ -6,7 +6,6 @@ tag: [CS50, blog, ComputerScience]
 toc: true
 ---
 
-# From Scratch to C
 
 > ## **수업내용**
 C는 좀 더 전통적이고 글자에 기반한 언어이다. 수십년이 된 오래된 언어이지만 C는 현대의 새로운 언어들*(파이썬 같은)의 바탕인 것은 확실하다. 

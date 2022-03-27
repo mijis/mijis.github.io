@@ -6,7 +6,6 @@ tag: [CS50, blog, ComputerScience]
 toc: true
 ---
 
-# Correctness Design and Style
 
 > ## **수업내용**
 

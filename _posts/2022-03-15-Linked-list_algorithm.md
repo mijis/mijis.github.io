@@ -6,7 +6,6 @@ tag:  [blog, algorithm, ComputerScience]
 toc: true
 ---
 
-# Linked List
 컴퓨터에 자료를 저장하는 구조의 한 종류로 다음 데이터의 주소를 가지고 있다.
 
 <!-- <img scr="https://user-images.githubusercontent.com/93427305/158141536-281c6fba-dc59-4777-b033-6ed0136cde94.png" > -->

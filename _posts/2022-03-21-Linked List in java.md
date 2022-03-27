@@ -1,12 +1,11 @@
 ---
 layout : single
-title: "Linked List"
+title: "Linked List 구현2 in java"
 categories: engineerkorea
 tag:  [blog, algorithm, ComputerScience]
 toc: true
 ---
 
-# Linked List 구현2 in java
  저번에 구현했던 노드는 첫 노드를 삭제할 수 없다는 문제가 있었다. 헤더가 첫번째 값이면서 링크드리스트의 대표이기 때문이다. 이를 해결하기 위해선 노드 클래스를 링크드 리스트에 감싼 후 링크드 리스트에 헤더를 따로 저장하고 그 안에  노드클래스를  따로 만들어주면 된다. 
 
 
