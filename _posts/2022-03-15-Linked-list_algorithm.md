@@ -2,7 +2,7 @@
 layout : single
 title: "Linked List"
 categories: engineerkorea
-tag:  [blog, algorithm, ComputerScience]
+tag:  [blog, algorithm, ComputerScience, engineerkorea]
 toc: true
 ---
 

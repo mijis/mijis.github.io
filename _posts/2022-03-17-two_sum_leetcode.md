@@ -2,7 +2,7 @@
 layout : single
 title: "Two Sum"
 categories: leet
-tag:  [blog, algorithm, ComputerScience]
+tag:  [blog, algorithm, ComputerScience, leetcode]
 toc: true
 ---
 

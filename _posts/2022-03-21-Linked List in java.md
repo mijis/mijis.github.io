@@ -2,7 +2,7 @@
 layout : single
 title: "Linked List 구현2 in java"
 categories: engineerkorea
-tag:  [blog, algorithm, ComputerScience]
+tag:  [blog, algorithm, ComputerScience, engineerkorea]
 toc: true
 ---
 

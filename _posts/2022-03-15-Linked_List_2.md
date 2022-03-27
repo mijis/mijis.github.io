@@ -2,7 +2,7 @@
 layout : single
 title: "단방향, 양방향 Linked List"
 categories: engineerkorea
-tag:  [blog, algorithm, ComputerScience]
+tag:  [blog, algorithm, ComputerScience, engineerkorea]
 toc: true
 ---
 
