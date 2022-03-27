@@ -12,24 +12,35 @@
 
 docs:
   - title: CS50
-      url: /CS50/
+      url: /docs/CS50/
       category: "CS50"
       
   - title: Algorithms
     children:
       - title: "Leet"
-        url: /leet/
+        url: /docs/leet/
       - title: "EngineerKorea"
-        url: /engineerkorea/
+        url: /docs/engineerkorea/
        
-
   - title: Diary
-      url: /diary/
+      url: /docs/diary/
       category: "diary"
+
   - title: Error
-      url: /error/
+      url: /docs/error/
+
   - title: Knowledge_pieces
-      url: /knowledge_pieces/
+    children:
+    - title: "java"
+        url: /docs/knowledge_pieces/java/
+    - title: "DB"
+        url:  /docs/knowledge_pieces/db/
+    - title: "JavaScript"
+        url: /docs/knowledge_pieces/javascript/
+      - title: "algorithms"
+        url: /docs/knowledge_pieces/algorithms/ 
+
+
    
       
       
