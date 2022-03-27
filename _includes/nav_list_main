@@ -45,14 +45,14 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "leet" %}
-                        <li><a href="/categories/leet" class="">LeetCode({{category[1].size}})</a></li>
+                        <li><a href="/categories/algorithms/leet" class="">LeetCode({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>  
              <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "engineerKorea" %}
-                        <li><a href="/categories/engineerkorea" class="">EngineerKorea({{category[1].size}})</a></li>
+                        <li><a href="/categories/algorithms/engineerkorea" class="">EngineerKorea({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>  
