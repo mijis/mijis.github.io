@@ -40,6 +40,9 @@ docs:
 
   - title: "Knowledge_pieces"
     children:
+      - title: "PC"
+        url: /docs/knowledge_pieces/pc/
+        category: pc
       - title: "java"
         url: /docs/knowledge_pieces/java/
         category: java
@@ -55,11 +58,15 @@ docs:
 
   - title: "improvments"
     children:
-      - title:
+      - title: improvments
         url: /docs/improvments/
         category: improvments
    
-      
+  - title: "MyCode"
+    children:
+      - title: Homework
+        url: /docs/homework/
+        category: homework   
       
 
      

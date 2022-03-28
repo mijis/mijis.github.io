@@ -12,7 +12,22 @@
       </li>
       <li>
         <!--span 태그로 카테고리들을 크게 분류 ex) C/C++/C#-->
+        <span class="nav__sub-title">My Code</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "homework" %}
+                        <li><a href="/categories/homework" class="">Homework({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>  
         <span class="nav__sub-title">Knowledge pieces</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "pc" %}
+                        <li><a href="/categories/pc" class="">PC ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "java" %}
