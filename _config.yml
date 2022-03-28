@@ -20,7 +20,7 @@ title                    : "minjeong :Dev"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "minjeong Jeon"
-description              : "Do or do not. <br>There is no try. <br> 배움이 있는 하루 "
+description              : "Do or do not. <br> There is no try."
 url                      : "https://mijis.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mijis/comment" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "minjeong Jeon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Do or do not. <br> There is no try.** <br> 배움이 있는 하루"
+  bio              : "**Do or do not. <br> There is no try.**"
   location         : "Seoul, Republic of Korea"
   email            : 
   links:
