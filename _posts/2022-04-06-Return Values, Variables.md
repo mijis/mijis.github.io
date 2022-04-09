@@ -22,3 +22,4 @@ string answer = get_string("what's your name? ");
 
 > ## **소감**
 아주 초반이지만 c는 대부분 소문자를 쓴다는 점이 자바와는 다른 점인 것 같다. 
+<br>
