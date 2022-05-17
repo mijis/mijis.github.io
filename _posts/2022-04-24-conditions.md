@@ -1,6 +1,6 @@
 ---
 layout : single
-title: "Operators"
+title: "conditions"
 categories: CS50
 tag: [CS50, blog, ComputerScience]
 toc: true
@@ -16,3 +16,4 @@ toc: true
 <br><br><br><br>
 
 > ## **소감**
+
