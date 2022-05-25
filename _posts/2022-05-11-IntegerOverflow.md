@@ -1,6 +1,6 @@
 ---
 layout : single
-title: "Operators"
+title: "Integer Overflow"
 categories: CS50
 tag: [CS50, blog, ComputerScience]
 toc: true

@@ -1,6 +1,6 @@
 ---
 layout : single
-title: "Operators"
+title: "validating User Input"
 categories: CS50
 tag: [CS50, blog, ComputerScience]
 toc: true

@@ -1,6 +1,6 @@
 ---
 layout : single
-title: "Operators"
+title: "Consequences Of Overflow And Imprecision"
 categories: CS50
 tag: [CS50, blog, ComputerScience]
 toc: true
