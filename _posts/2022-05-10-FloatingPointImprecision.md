@@ -16,4 +16,4 @@ toc: true
 <br><br><br><br>
 
 > ## **소감**
-types
+d
