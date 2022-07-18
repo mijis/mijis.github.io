@@ -2,7 +2,7 @@
 layout : single
 title: "Recyclable and Low Fat Products"
 categories: leet
-tag:  [blog, algorithm, ComputerScience, leetcode]
+tag:  [blog, algorithm, ComputerScience, leetcode, sql]
 toc: true
 ---
 

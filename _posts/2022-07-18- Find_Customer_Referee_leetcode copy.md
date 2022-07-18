@@ -2,7 +2,7 @@
 layout : single
 title: "Find Customer Referee"
 categories: leet
-tag:  [blog, algorithm, ComputerScience, leetcode]
+tag:  [blog, algorithm, ComputerScience, leetcode, sql]
 toc: true
 ---
 

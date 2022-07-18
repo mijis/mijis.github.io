@@ -2,7 +2,7 @@
 layout : single
 title: "Customers Who Never Order"
 categories: leet
-tag:  [blog, algorithm, ComputerScience, leetcode]
+tag:  [blog, algorithm, ComputerScience, leetcode, sql]
 toc: true
 ---
 
