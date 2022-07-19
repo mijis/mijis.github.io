@@ -33,4 +33,4 @@ WHERE       o.customerId is null;
 <br><br>
 
 ## **+**
-inner join과 outer join에 대해 다시 복습해보는 시간이었다. outer join에서 
+inner join과 outer join에 대해 다시 복습해보는 시간이었다. 
