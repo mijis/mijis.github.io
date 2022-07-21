@@ -22,7 +22,7 @@ Write an SQL query to delete all the duplicate emails, keeping only one unique e
 ## **풀이**
 1 번 째 풀이 : Runtime: 617 ms
 ```
-delete
+deletedf
 ``` 
 <br><br>
 
