@@ -333,7 +333,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - jekyll-include-cache
-  - jekyll-last-modified-at
+  - jekyll-last-modified-atf
 
 
 # SEO Tag
@@ -421,6 +421,3 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
-
-plugins:
-  - jekyll-include-cache
