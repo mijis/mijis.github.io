@@ -36,6 +36,7 @@ tags: [js]
     ➡ 호이스팅은 스코프(scope) 단위로 발생 <br>
     ➡ showAge 함수에서 스코프는 함수 내부이므로 함수 시작부터 끝은 TDZ 구간
 
+
 <br><br>
 
 ### 3. 정리
@@ -58,6 +59,38 @@ tags: [js]
     gender = 'male';
     ```
   - 블록 스코프(block-scoped)
+
+
+<br><br>
+
+### 4. MDN 내용
+* TDZ는 블럭의 시작부터 변수가 선언되고 초기화되는 곳에 다다를 때까지의 구간
+* TDZ 내부에서 변수는 초기화 되지 않았으므로 TDZ에서 값에 접근하려고 하면 Reference Error가 난다.
+
+### 5. 나의 정리
+* var <br>
+  :one: Declaration
+    + 선언 단계에서 메모리에 변수 a에 대한 저장 공간 할당
+    + 동시에 'undefined' 로 초기화
+    + 따라서 TDZ에 빠지지 않음<br>
+
+  :two: Assignmet
+    + 할당 단계에서 메모리에 리터럴 값이 변수 a의 저장 공간에 저장됨<br>
+  
+* let <br>
+  :one: Declaration
+    + 선언 단계에서 메모리 변수 b에 대한 저장 공간이 할당
+    + TDZ에 빠지면서, 초기화 전까지 접근 불가 🟰 Reference Error
+  
+  :two: Initialization
+    + 초기화 단계에서 메모리에 리터럴 값이 변수 a의 저장 공간에 저장됨<br>
+  
+*  const <br>
+  :one: Declaration
+    + 선언과 동시에 초기화
+    + 메모리에 변수 c의 리터럴 값에 대한 저장 공간이 할당되고 저장 됨
+    + 재할당이 불가능하므로 이후 변경 불가
+  
 
 
 <br><br><br><br>
