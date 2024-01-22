@@ -7,8 +7,7 @@ tags: [js]
 
 ### 🌟 Object method
 
-1. computed property, 계산된 프로퍼티
-     * key의 값이 유동적일 때 유용
+1. computed property, 계산된 프로퍼티 ==> key의 값이 유동적일 때 유용
     ```javascript
     let a = 'age';
 
