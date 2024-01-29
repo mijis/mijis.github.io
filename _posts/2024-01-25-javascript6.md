@@ -7,7 +7,7 @@ tags: [js]
 
 ### 🌟 String
 
-* 백틱 ``
+* 
     ```javascript
     let desc =`오늘은 맑고 
     날씨가 계속되겠습니다.`;    //백틱 줄바꿈 가능
