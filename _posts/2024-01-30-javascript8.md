@@ -1,5 +1,5 @@
 ---
-title: javascript_7
+title: javascript_8
 date: 2024-01-30 23:50:00 +0900
 categories: [javascript]
 tags: [js]
