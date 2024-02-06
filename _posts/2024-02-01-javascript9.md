@@ -38,6 +38,7 @@ tags: [js]
   ```
 
 * 나머지 매개변수 Rest parameters : 배열로 메서드 사용 가능
+  + 배열의 요소들을 각각의 개별 인수로 전달하는 것
   ```javascript
   function showName(...names){
     console.log(names);
